@@ -1,0 +1,5 @@
+﻿
+new Bolig.GUI();
+
+
+
